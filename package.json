@@ -1,24 +1,24 @@
 {
-  "name": "goit-shopping-basket",
+  "name": "apka---shop---cards",
   "version": "1.0.0",
-  "description": "STICKY-NOTES APP Created @Krzysztof Rozbicki 08-04-2023\r https://krzysztofrozbicki.github.io/sticky-notes/",
+  "description": "apka shop cards\r https://K4pe7u.github.io/apka---shop---cards/",
   "scripts": {
     "start": "parcel src/index.html",
     "server": "json-server --watch src/db.json",
-    "build": "parcel build src/index.html --public-url /goit-shopping-basket/",
+    "build": "parcel build src/index.html --public-url /apka---shop---cards/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KrzysztofRozbicki/goit-shopping-basket.git"
+    "url": "git+https://github.com/K4pe7u/apka---shop---cards.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KrzysztofRozbicki/goit-shopping-basket/issues"
+    "url": "https://github.com/K4pe7u/apka---shop---cards/issues"
   },
-  "homepage": "https://github.com/KrzysztofRozbicki/goit-shopping-basket#readme",
+  "homepage": "https://github.com/K4pe7u/apka---shop---cards#readme",
   "devDependencies": {
     "@fancyapps/ui": "^5.0.15",
     "flowbite": "^1.6.4",
